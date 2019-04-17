@@ -3,13 +3,13 @@
 <!--[if lt IE 7 ]> <html dir="ltr" lang="en-US" class="no-js ie6 oldie"> <![endif]-->
 <!--[if IE 7 ]>    <html dir="ltr" lang="en-US" class="no-js ie7 oldie"> <![endif]-->
 <!--[if IE 8 ]>    <html dir="ltr" lang="en-US" class="no-js ie8 oldie"> <![endif]-->
-<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html dir="ltr" lang="en-US" class="no-js" amp><!--<![endif]--><head><meta charset="utf-8"><meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"><meta name="google-translate-customization" content="da280c9cea821e81-3553748553c98ee2-g01e2329d4e5702cb-1d"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="amp-experiments-opt-in" content="amp-list-load-more">
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html dir="ltr" lang="en-US" class="no-js" amp><!--<![endif]--><head><meta charset="utf-8"><meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"><meta name="google-translate-customization" content="da280c9cea821e81-3553748553c98ee2-g01e2329d4e5702cb-1d"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="amp-experiments-opt-in" content="amp-list-load-more"><meta name="msvalidate.01" content="588AB482B3C4903A34ABB6C320AE823F">
+<meta name="google-site-verification" content="KeOOfSL8YFK4dUsmeby0yVz1R5KcUyRSYdGBqnzuPVk">
 
+<link rel="shortcut icon" href="https://kalyanjewellers.net/favicon.png">
 
-<link rel="shortcut icon" href="https://www.celio.com/_ui/desktop/favicon-96x96.png">
-
-<link rel="canonical" href="https://abcs.com/orion-mall-bangalore/4536859854110720/catalog"><!--[if lt IE 9]><script language="javascript" type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" href="http://localhost:8888/shared/css/compiled/NiftyWindowIcons-ie7.css"><![endif]--><title>Celio Products, Products for Celio, Orion Mall, Bangalore</title><meta name="description" content="Celio Products. View the Products, price and availability for Celio in Orion Mall, Bangalore."><meta name="keywords" content="Celio, Orion Mall, Bangalore, Products"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans"><style amp-custom>
+<link rel="canonical" href="https://stores.kalyanjewellers.net/marathahalli-bangalore/4833112707825664/catalog"><!--[if lt IE 9]><script language="javascript" type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="https://www.niftywindow.com/shared/css/compiled/NiftyWindowIcons-ie7.css"><![endif]--><title>Kalyan Jewellers Catalog, Catalog for Kalyan Jewellers, Marathahalli, Bangalore</title><meta name="description" content="Kalyan Jewellers Catalog. View the Catalog, price and availability for Kalyan Jewellers in Marathahalli, Bangalore."><meta name="keywords" content="Kalyan Jewellers, Marathahalli, Bangalore, Catalog"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans"><style amp-custom>
 	#attribute-wrapper > tbody > tr:nth-child(2n+1) > td,
 	#attribute-wrapper > tbody > tr:nth-child(2n+1) > th,
 	#variants > tbody > tr:nth-child(2n+1) > td,
@@ -41,31 +41,31 @@
 		display: none;
 	}
 .brand-color-bg {
-	background-color: #DA2A1B;
+	background-color: #E30613;
 }
 .brand-color-text, .theme-content-bg h1.brand-color-text, .page .brand-color-text  {
-	color: #DA2A1B;
+	color: #E30613;
 }
 .campaignViewDetail {
-	color: #DA2A1B;
+	color: #E30613;
 }
 .brand-color-border,
 .theme-border.brand-color-border {
-	border-color: #DA2A1B;
+	border-color: #E30613;
 }
 a.brand-color {
-	color: #DA2A1B;
+	color: #E30613;
 }
 a.brand-color-hover::hover {
-	color: #DA2A1B;
+	color: #E30613;
 }
 |
 .theme-hover-brand-color::hover {
-	color: #DA2A1B;
+	color: #E30613;
 }
 |
 .theme-hover-bg-brand-color::hover {
-	background-color: #DA2A1B;
+	background-color: #E30613;
 }
 .theme-hover-bg,	
 .card-hover-bg::hover,
@@ -1489,7 +1489,7 @@ and have security issues as virus and malware. It also affects the quality of we
  <script type="application/json">
    {
      "requests": {
-       "event": "/api/analytics/amp/clientweb?brandId=5434061342375936&type=LISTING_INFO_EXTCLICK&category=CLICKTOCALL_MOBILE&nwListingId=4536859854110720&city=Bangalore"
+       "event": "/api/analytics/amp/clientweb?brandId=6086017347747840&type=LISTING_INFO_EXTCLICK&category=CLICKTOCALL_MOBILE&nwListingId=4833112707825664&city=Bangalore"
      },
      "triggers": {
        "trackAnchorClicks": {
@@ -1500,32 +1500,33 @@ and have security issues as virus and malware. It also affects the quality of we
      }
    }
  </script>
-</amp-analytics><div itemtype="http://schema.org/ClothingStore" itemscope class="page"><div class="hdr-main theme-content-bg">
-<div class="header-logo theme-content-bg"><a href="/site/brand/clothing-store-bangalore-celio/5434061342375936"><amp-img id="store-logo" src="https://www.celio.com/_ui/desktop/assets/img/logo-celio-bl.png" alt="Celio Shop Ug-18 A, Upper Ground Floor, Brigade Gateway, 26/1, Dr. Rajkumar Road, Malleshwaram West, Bangalore - 560055, Assam." itemprop="logo" layout="fill"></amp-img></a></div>
-<div id="brand-metadata" itemscope itemprop="brand" itemtype="http://schema.org/Brand" itemref="store-website store-logo" style="display: none" class="brand-metadata"><span itemprop="name">Celio</span></div><div class="nap-outer"><div class="nap-inner theme-content-bg"><h1 itemprop="name" class="brand-color-text"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/overview" title="Celio, Orion Mall, Bangalore" class="brand-color-text brand-color-hover">Celio, Orion Mall, Bangalore</a></h1><p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="address"><span itemprop="streetAddress" class="streetAddress">Shop Ug-18 A, Upper Ground Floor, Brigade Gateway, 26/1, Dr. Rajkumar Road, Malleshwaram West</span><br><span itemprop="addressRegion">Bangalore</span><span>- </span><span itemprop="postalCode">560055</span></p></div></div><div class="summary"><p class="phone-button theme-body-text"><a href="tel:080-22682075" style="padding-left: 4px; margin-right: 5px;" class="btn btn-default"><i class="fa fa-phone"></i><span>Call Now</span></a></p>
+</amp-analytics>
+<div itemtype="http://schema.org/JewelryStore" itemscope class="page"><div class="hdr-main theme-content-bg">
+<div class="header-logo theme-content-bg"><a href="https://stores.kalyanjewellers.net"><amp-img id="store-logo" src="https://myimg1.blob.core.windows.net/5278843940110336/5278843940110336_kalyan_logo.png" alt="Kalyan Jewellers No 93/1, Varthur Main Road, Old Airport Road, Bangalore - 560037, Karnataka." itemprop="logo" layout="fill"></amp-img></a></div>
+<div id="brand-metadata" itemscope itemprop="brand" itemtype="http://schema.org/Brand" itemref="store-website store-logo" style="display: none" class="brand-metadata"><span itemprop="name">Kalyan Jewellers</span></div><div class="nap-outer"><div class="nap-inner theme-content-bg"><h1 itemprop="name" class="brand-color-text"><a href="/amp/marathahalli-bangalore/4833112707825664/overview" title="Kalyan Jewellers, Marathahalli, Bangalore" class="brand-color-text brand-color-hover">Kalyan Jewellers, Marathahalli, Bangalore</a></h1><p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="address"><span itemprop="streetAddress" class="streetAddress">No 93/1, Varthur Main Road, Old Airport Road</span><br><span itemprop="addressRegion">Bangalore</span><span>- </span><span itemprop="postalCode">560037</span></p></div></div><div class="summary"><p class="phone-button theme-body-text"><a href="tel:08046837079" style="padding-left: 4px; margin-right: 5px;" class="btn btn-default"><i class="fa fa-phone"></i><span>Call Now</span></a></p>
 
-<p class="time theme-body-text"><p class='time theme-body-text open'><i class='fa fa-clock-o' aria-hidden='true'></i><strong>Open until 10:00 PM</strong></p></p></div></div><a id="contentTop"></a><div class="menu-bar theme-content-bg theme-border"><ul class="nav-menu horizontal"><li data-section="OVERVIEW"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/overview" class="brand-color-hover theme-body-text"><span>Overview</span></a></li>
-<li data-section="CATALOG"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog#contentTop" class="brand-color-hover theme-body-text"><span>Products</span></a></li>
+<p class="time theme-body-text"><p class='time theme-body-text open'><i class='fa fa-clock-o' aria-hidden='true'></i><strong>Open until 9:00 PM</strong></p></p></div></div><a id="contentTop"></a><div class="menu-bar theme-content-bg theme-border"><ul class="nav-menu horizontal"><li data-section="OVERVIEW"><a href="/amp/marathahalli-bangalore/4833112707825664/overview" class="brand-color-hover theme-body-text"><span>Overview</span></a></li>
+<li data-section="CATALOG"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog#contentTop" class="brand-color-hover theme-body-text"><span>Catalog</span></a></li>
 
-<li data-section="OFFERS" class="optional"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/offers#contentTop" class="brand-color-hover theme-body-text"><span>Offers</span></a></li>
-<li data-section="ARTICLES" class="optional"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/articles#contentTop" class="brand-color-hover theme-body-text"><span>Articles</span></a></li>
-<li data-section="MAP"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/map#contentTop" class="brand-color-hover theme-body-text"><span>Map</span></a></li>
-<li data-section="REVIEWS" class="optional"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/reviews#contentTop" class="brand-color-hover theme-body-text"><span>Reviews</span></a></li>
-<li data-section="PHOTOS" class="optional"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/photos-videos#contentTop" class="brand-color-hover theme-body-text"><span>Photos</span></a></li>
-<li data-section="ENQUIRY" class="optional"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/enquiry#contentTop" class="brand-color-hover theme-body-text"><span class="">Enquiry</span></a></li>
+<li data-section="OFFERS" class="optional"><a href="/amp/marathahalli-bangalore/4833112707825664/offers#contentTop" class="brand-color-hover theme-body-text"><span>Offers</span></a></li>
+<li data-section="ARTICLES" class="optional"><a href="/amp/marathahalli-bangalore/4833112707825664/articles#contentTop" class="brand-color-hover theme-body-text"><span>Articles</span></a></li>
+<li data-section="MAP"><a href="/amp/marathahalli-bangalore/4833112707825664/map#contentTop" class="brand-color-hover theme-body-text"><span>Map</span></a></li>
+<li data-section="REVIEWS" class="optional"><a href="/amp/marathahalli-bangalore/4833112707825664/reviews#contentTop" class="brand-color-hover theme-body-text"><span>Reviews</span></a></li>
+<li data-section="PHOTOS" class="optional"><a href="/amp/marathahalli-bangalore/4833112707825664/photos-videos#contentTop" class="brand-color-hover theme-body-text"><span>Photos &amp; Videos</span></a></li>
+
 
 
 
 <li class="mobile more"><a on="tap:AMP.setState({moreMenu: {open: !moreMenu.open}})" class="brand-color-hover"><span>More</span></a></li></ul><ul class="nav-menu vertical theme-content-bg closed" [class]="moreMenu.open ? 'nav-menu vertical theme-content-bg open fade': 'nav-menu vertical theme-content-bg closed fade_reverse'">
-<li class="theme-border"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/articles" class="brand-color-hover theme-body-text">Articles</a></li>
-<li class="theme-border"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/reviews" class="brand-color-hover theme-body-text">Reviews</a></li>
-<li class="theme-border"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/photos-videos" class="brand-color-hover theme-body-text">Photos</a></li>
-<li class="theme-border"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/offers#contentTop" class="brand-color-hover theme-body-text">Offers</a></li>
-<li class="theme-border"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/enquiry#contentTop" class="brand-color-hover theme-body-text"><span>Enquiry</span></a></li>
+<li class="theme-border"><a href="/amp/marathahalli-bangalore/4833112707825664/articles" class="brand-color-hover theme-body-text">Articles</a></li>
+<li class="theme-border"><a href="/amp/marathahalli-bangalore/4833112707825664/reviews" class="brand-color-hover theme-body-text">Reviews</a></li>
+<li class="theme-border"><a href="/amp/marathahalli-bangalore/4833112707825664/photos-videos" class="brand-color-hover theme-body-text">Photos &amp; Videos</a></li>
+<li class="theme-border"><a href="/amp/marathahalli-bangalore/4833112707825664/offers#contentTop" class="brand-color-hover theme-body-text">Offers</a></li>
 
 
 
-<li class="theme-border"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/about" class="brand-color-hover theme-body-text"><span>About us</span></a></li></ul></div><div class="content theme-page-bg"><amp-state id="filters">
+
+<li class="theme-border"><a href="/amp/marathahalli-bangalore/4833112707825664/about" class="brand-color-hover theme-body-text"><span>About us</span></a></li></ul></div><div class="content theme-page-bg"><amp-state id="filters">
 	 <script type="application/json">
 	   {
 	     "show": false
@@ -1533,28 +1534,26 @@ and have security issues as virus and malware. It also affects the quality of we
 	 </script>
 </amp-state><div class="main-col"><amp-state id="productsState" [src]="searchUrl">
 </amp-state>
-<div id="filterOverlay" class="hideOverlay" [class]="filters.show?'showOverlay':'hideOverlay'" on="tap:AMP.setState({'filters': {'show': false}})" role="button" tabindex="1"></div><section id="catalog" data-richtext="" data-product-label="products" class="card theme-content-bg theme-border"><div class="filterDivActiveOverlay"></div><div class="catalogBodyOverlay"></div><h2 class="brand-color-text theme-border">Products </h2>
-<div id="search-wrapper"><form action="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog" method="get" target="_top"><input id="search-box" type="text" placeholder="Search products" style="right: 0" name="keyword" value="" class="theme-border theme-body-text"><i aria-hidden="true" class="fa fa-search"></i></form></div>
-<div data-current-category="Accessories" class="nw-inner-wrapper"><div [class]="showFilterResults?'hide-on-filter':'show-on-filter'"><div id="header" class="theme-content-bg theme-border"><div id="pagination-wrapper" class="brand-color-bg"><a id="page-prev" href="https://abcs.com/amp/orion-mall-bangalore/4536859854110720/catalog/" class="theme-hover-bg-brand-color inactive brand-color-bg"><div class="icon theme-brand-bg-text"><i class="fa fa-chevron-left"></i></div></a><div id="page-cur" class="page-thumb theme-brand-bg-text">
-
-Accessories
-
-</div><a id="page-next" href="https://abcs.com/amp/orion-mall-bangalore/4536859854110720/catalog/Shirt" class="theme-hover-bg-brand-color brand-color-bg"><div class="icon theme-brand-bg-text"><i class="fa fa-chevron-right"></i></div></a></div></div></div><div id="body"><div data-current-category="" class="nw-inner-wrapper"><div class="catalogBodyOverlay"></div><div class="hide-on-filter" [class]="showFilterResults?'show-on-filter':'hide-on-filter'"><div id="header" class="theme-content-bg theme-border"><h1 class="brand-color-bg theme-brand-bg-text">Filter Results</h1></div></div><div id="body"><div class="list-wrapper"><div class="catalog-grid">					
+<div id="filterOverlay" class="hideOverlay" [class]="filters.show?'showOverlay':'hideOverlay'" on="tap:AMP.setState({'filters': {'show': false}})" role="button" tabindex="1"></div><section id="catalog" data-richtext="" data-product-label="products" class="card theme-content-bg theme-border"><div class="filterDivActiveOverlay"></div><div class="catalogBodyOverlay"></div><h2 class="brand-color-text theme-border">Catalog </h2>
+<div id="search-wrapper"><form action="/amp/marathahalli-bangalore/4833112707825664/catalog" method="get" target="_top"><input id="search-box" type="text" placeholder="Search products" style="right: 0" name="keyword" value="" class="theme-border theme-body-text"><i aria-hidden="true" class="fa fa-search"></i></form></div>
+<div data-current-category="Featured" class="nw-inner-wrapper"><div [class]="showFilterResults?'hide-on-filter':'show-on-filter'"><div id="header" class="theme-content-bg theme-border"><div id="pagination-wrapper" class="brand-color-bg"><a id="page-prev" href="https://stores.kalyanjewellers.net/amp/marathahalli-bangalore/4833112707825664/catalog/" class="theme-hover-bg-brand-color inactive brand-color-bg"><div class="icon theme-brand-bg-text"><i class="fa fa-chevron-left"></i></div></a><div id="page-cur" class="page-thumb theme-brand-bg-text">
+Featured
+</div><a id="page-next" href="https://stores.kalyanjewellers.net/amp/marathahalli-bangalore/4833112707825664/catalog/Mudhra" class="theme-hover-bg-brand-color brand-color-bg"><div class="icon theme-brand-bg-text"><i class="fa fa-chevron-right"></i></div></a></div></div></div><div id="body"><div data-current-category="" class="nw-inner-wrapper"><div class="catalogBodyOverlay"></div><div class="hide-on-filter" [class]="showFilterResults?'show-on-filter':'hide-on-filter'"><div id="header" class="theme-content-bg theme-border"><h1 class="brand-color-bg theme-brand-bg-text">Filter Results</h1></div></div><div id="body"><div class="list-wrapper"><div class="catalog-grid">					
 	<amp-list width="auto" height="5" [height]="productsState.products.length * 380" layout="fixed-height" [src]="searchUrl" items="products" load-more="auto" load-more-bookmark="load-more-src">
   <div placeholder style="position:absolute;top:0;text-align:center;">
       <i class="fa fa-spinner fa-spin" style="margin-top:20px;font-size:20px;"></i></div>
 	<template type="amp-mustache" id="filterResultsTemplate">
 	<div class="product-card item-hover-bg theme-border" title="&#123;&#123;description&#125;&#125;" data-nwlistingid="&#123;&#123;nwListingId&#125;&#125;" itemscope="itemscope" itemtype="http://schema.org/Product" data-is-un-available="&#123;&#123;isUnAvailable&#125;&#125;">
 		<div class="product-image-container">
-          <a href="http://localhost:8888https://abcs.com/amp/orion-mall-bangalore/4536859854110720/catalog/product/&#123;&#123;urlString&#125;&#125;/&#123;&#123;nwListingId&#125;&#125;">
-              <div data-src="&#123;&#123;imageUrl&#125;&#125;" data-alt="&#123;&#123;brandListingId&#125;&#125;, Celio, Orion Mall">
-					<amp-img src="&#123;&#123;imageUrl&#125;&#125;" alt="&#123;&#123;brandListingId&#125;&#125;, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img>
+          <a href="https://www.niftywindow.comhttps://stores.kalyanjewellers.net/amp/marathahalli-bangalore/4833112707825664/catalog/product/&#123;&#123;urlString&#125;&#125;/&#123;&#123;nwListingId&#125;&#125;">
+              <div data-src="&#123;&#123;imageUrl&#125;&#125;" data-alt="&#123;&#123;brandListingId&#125;&#125;, Kalyan Jewellers, Marathahalli">
+					<amp-img src="&#123;&#123;imageUrl&#125;&#125;" alt="&#123;&#123;brandListingId&#125;&#125;, Kalyan Jewellers, Marathahalli" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img>
 				</div>
           </a>	
 		</div>
       <div class="product-summary">
 			<h3 class="product-name">
-				<a href="http://localhost:8888https://abcs.com/amp/orion-mall-bangalore/4536859854110720/catalog/product/&#123;&#123;urlString&#125;&#125;/&#123;&#123;nwListingId&#125;&#125;" class="item-link theme-heading-text">&#123;&#123;name&#125;&#125;</a>
+				<a href="https://www.niftywindow.comhttps://stores.kalyanjewellers.net/amp/marathahalli-bangalore/4833112707825664/catalog/product/&#123;&#123;urlString&#125;&#125;/&#123;&#123;nwListingId&#125;&#125;" class="item-link theme-heading-text">&#123;&#123;name&#125;&#125;</a>
 				<span class="nw-icon-triangle-right brand-color-text"></span>
 				<span style="display:none" itemprop="name">&#123;&#123;name&#125;&#125;</span>
 			</h3>
@@ -1577,224 +1576,71 @@ Accessories
 	<amp-list-load-more load-more-end>You've reached the end.</amp-list-load-more>
   <amp-list-load-more load-more-failed><button>Unable to Load More</button></amp-list-load-more>
 	</amp-list></div></div></div></div><div class="list-wrapper"><div [class]="showFilterResults?'hide-on-filter':'show-on-filter'">
-<div class="breadcrumb theme-border"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog" class="brand-color">Products</a>
-
-<span class="separator">&gt;</span><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Accessories" class="brand-color">Accessories</a>
+<div class="breadcrumb theme-border"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog" class="brand-color">Catalog</a>
 
 
 
 
-<div class="cat-image"><amp-img src="https://lh3.googleusercontent.com/OLiridRWOmMPLM5-45Q251uJXWbiCGA8YON5Ya7XYKkl0-9zfalZflb15lTxClWAcGiKrQenIvE9U2HTKRDmrp8" alt="Accessories" layout="responsive" width="398" height="512"></amp-img></div>
+
+
 
 
 </div>
-<div class="catalog-grid"><div class="mobile-layout"></div>
-<h2 class="brand-color-text seccat-name theme-border">Hat&amp;Cap</h2>
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Accessories/Hat%26Cap" class="view-all brand-color-text large-screen-only">View all <i class="fa fa-caret-right"></i></a>
-
-<!-- loop over all products inside this sec cat --><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="4544556435505152" title="Give yourself an urban touch on any outfit with this 100% Cotton Grey colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/libor/4544556435505152"><amp-img data-src="https://storage.googleapis.com/celio/libor_grey_1.jpg" src="https://storage.googleapis.com/celio/libor_grey_1.jpg" data-alt="Libor, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/libor/4544556435505152" itemprop="url" class="item-link theme-heading-text">Libor</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Libor</span></h3>
-<div class="product-description">Give yourself an urban touch on any outfit with this 100% Cotton Grey colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
+<div class="catalog-grid"><div class="mobile-layout"></div><!-- if secondaryCategories don't exist, parse as flat, product list--><div data-is-un-available="" itemscope itemtype="http://schema.org/Product" data-nwlistingid="4639107743219712" title="Anokhi Gold Earrings Style No: Kcae018 In Yellow Gold  22K  29.36 Gms And 10.695 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-earrings/4639107743219712"><amp-img data-src="https://www.candere.com/media/catalog/product/a/k/aker3918-e.jpg" src="https://www.candere.com/media/catalog/product/a/k/aker3918-e.jpg" data-alt="Anokhi Gold Earrings, Kalyan Jewellers, Marathahalli" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-earrings/4639107743219712" itemprop="url" class="item-link theme-heading-text">Anokhi Gold Earrings</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Anokhi Gold Earrings</span></h3>
+<div class="product-description">Anokhi Gold Earrings Style No: Kcae018 In Yellow Gold  22K  29.36 Gms And 10.695 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">240256</span><dl style="display:none"></dl></div>
 </div></div>
 
+<a href="https://www.niftywindow.com/api/analytics/click?&amp;placementId=6435986833670144&amp;contextListingId=4639107743219712&amp;category=Anokhi&amp;brandId=6086017347747840&amp;listingId=4833112707825664&amp;type=PS_CATALOG_BUY_CLICK&amp;rdct=https%3A%2F%2Fwww.candere.com%2Fpashvi-anokhi-gold-earrings.html" target="_blank" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Buy Online</a>
 
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/libor/4544556435505152?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="4775453877338112" title="Give yourself an urban touch on any outfit with this 100% Cotton Grey colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/libor/4775453877338112"><amp-img data-src="https://storage.googleapis.com/celio/libor_grey_1.jpg" src="https://storage.googleapis.com/celio/libor_grey_1.jpg" data-alt="Libor, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/libor/4775453877338112" itemprop="url" class="item-link theme-heading-text">Libor</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Libor</span></h3>
-<div class="product-description">Give yourself an urban touch on any outfit with this 100% Cotton Grey colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
+</div><div data-is-un-available="" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5121296339566592" title="Anokhi Gold Bangle Style No: Kcab003 In Yellow Gold  22K  26.11 Gms And 6.33 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-bangles/5121296339566592"><amp-img data-src="https://www.candere.com/media/catalog/product/a/k/akba3903-ca.jpg" src="https://www.candere.com/media/catalog/product/a/k/akba3903-ca.jpg" data-alt="Anokhi Gold Bangles, Kalyan Jewellers, Marathahalli" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-bangles/5121296339566592" itemprop="url" class="item-link theme-heading-text">Anokhi Gold Bangles</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Anokhi Gold Bangles</span></h3>
+<div class="product-description">Anokhi Gold Bangle Style No: Kcab003 In Yellow Gold  22K  26.11 Gms And 6.33 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">179240</span><dl style="display:none"></dl></div>
 </div></div>
 
+<a href="https://www.niftywindow.com/api/analytics/click?&amp;placementId=6435986833670144&amp;contextListingId=5121296339566592&amp;category=Anokhi&amp;brandId=6086017347747840&amp;listingId=4833112707825664&amp;type=PS_CATALOG_BUY_CLICK&amp;rdct=https%3A%2F%2Fwww.candere.com%2Fpivari-anokhi-gold-bangles.html" target="_blank" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Buy Online</a>
 
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/libor/4775453877338112?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5621528074911744" title="Give yourself an urban touch on any outfit with this 100% Cotton Grey colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborsa/5621528074911744"><amp-img data-src="https://storage.googleapis.com/celio/liborsa_grey_1.jpg" src="https://storage.googleapis.com/celio/liborsa_grey_1.jpg" data-alt="Liborsa, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborsa/5621528074911744" itemprop="url" class="item-link theme-heading-text">Liborsa</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Liborsa</span></h3>
-<div class="product-description">Give yourself an urban touch on any outfit with this 100% Cotton Grey colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
+</div><div data-is-un-available="" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5191983515303936" title="Anokhi Gold Bangle Style No: Kcab001 In Yellow Gold  22K  25.00 Gms And 7.53 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-bangles/5191983515303936"><amp-img data-src="https://www.candere.com/media/catalog/product/a/k/akba3901-ca.jpg" src="https://www.candere.com/media/catalog/product/a/k/akba3901-ca.jpg" data-alt="Anokhi Gold Bangles, Kalyan Jewellers, Marathahalli" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-bangles/5191983515303936" itemprop="url" class="item-link theme-heading-text">Anokhi Gold Bangles</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Anokhi Gold Bangles</span></h3>
+<div class="product-description">Anokhi Gold Bangle Style No: Kcab001 In Yellow Gold  22K  25.00 Gms And 7.53 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">193419</span><dl style="display:none"></dl></div>
 </div></div>
 
+<a href="https://www.niftywindow.com/api/analytics/click?&amp;placementId=6435986833670144&amp;contextListingId=5191983515303936&amp;category=Anokhi&amp;brandId=6086017347747840&amp;listingId=4833112707825664&amp;type=PS_CATALOG_BUY_CLICK&amp;rdct=https%3A%2F%2Fwww.candere.com%2Fpavina-anokhi-gold-bangles.html" target="_blank" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Buy Online</a>
 
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborsa/5621528074911744?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5551709086547968" title="Give yourself an urban touch on any outfit with this Indigo colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top. Key points about this product are that it is 98% Cotton and 2% Viscose." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborlin/5551709086547968"><amp-img data-src="https://storage.googleapis.com/celio/liborlin_indigo_1.jpg" src="https://storage.googleapis.com/celio/liborlin_indigo_1.jpg" data-alt="Liborlin, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborlin/5551709086547968" itemprop="url" class="item-link theme-heading-text">Liborlin</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Liborlin</span></h3>
-<div class="product-description">Give yourself an urban touch on any outfit with this Indigo colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top. Key points about this product are that it is 98% Cotton and 2% Viscose.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
+</div><div data-is-un-available="" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5237498223263744" title="Anokhi Gold Bangle Style No: Kcab004 In Yellow Gold  22K  28.75 Gms And 7.21 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-bangles/5237498223263744"><amp-img data-src="https://www.candere.com/media/catalog/product/a/k/akba3904-ca.jpg" src="https://www.candere.com/media/catalog/product/a/k/akba3904-ca.jpg" data-alt="Anokhi Gold Bangles, Kalyan Jewellers, Marathahalli" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-bangles/5237498223263744" itemprop="url" class="item-link theme-heading-text">Anokhi Gold Bangles</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Anokhi Gold Bangles</span></h3>
+<div class="product-description">Anokhi Gold Bangle Style No: Kcab004 In Yellow Gold  22K  28.75 Gms And 7.21 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">197018</span><dl style="display:none"></dl></div>
 </div></div>
 
+<a href="https://www.niftywindow.com/api/analytics/click?&amp;placementId=6435986833670144&amp;contextListingId=5237498223263744&amp;category=Anokhi&amp;brandId=6086017347747840&amp;listingId=4833112707825664&amp;type=PS_CATALOG_BUY_CLICK&amp;rdct=https%3A%2F%2Fwww.candere.com%2Fnayara-anokhi-gold-bangles.html" target="_blank" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Buy Online</a>
 
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborlin/5551709086547968?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5281229226115072" title="Give yourself an urban touch on any outfit with this Black colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top. Key points about this product are that it is 60% Polyester and 40% Acrylic." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/mibeanie/5281229226115072"><amp-img data-src="https://storage.googleapis.com/celio/mibeanie_black_1.jpg" src="https://storage.googleapis.com/celio/mibeanie_black_1.jpg" data-alt="Mibeanie, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/mibeanie/5281229226115072" itemprop="url" class="item-link theme-heading-text">Mibeanie</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Mibeanie</span></h3>
-<div class="product-description">Give yourself an urban touch on any outfit with this Black colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top. Key points about this product are that it is 60% Polyester and 40% Acrylic.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">499</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
+</div><div data-is-un-available="" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5505916499394560" title="Anokhi Gold Necklace Style No: Kcan001 In Yellow Gold  22K  20.47 Gms And 7.77 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-necklace/5505916499394560"><amp-img data-src="https://www.candere.com/media/catalog/product/a/k/akne3901-b.jpg" src="https://www.candere.com/media/catalog/product/a/k/akne3901-b.jpg" data-alt="Anokhi Gold Necklace, Kalyan Jewellers, Marathahalli" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-necklace/5505916499394560" itemprop="url" class="item-link theme-heading-text">Anokhi Gold Necklace</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Anokhi Gold Necklace</span></h3>
+<div class="product-description">Anokhi Gold Necklace Style No: Kcan001 In Yellow Gold  22K  20.47 Gms And 7.77 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">164346</span><dl style="display:none"></dl></div>
 </div></div>
 
+<a href="https://www.niftywindow.com/api/analytics/click?&amp;placementId=6435986833670144&amp;contextListingId=5505916499394560&amp;category=Anokhi&amp;brandId=6086017347747840&amp;listingId=4833112707825664&amp;type=PS_CATALOG_BUY_CLICK&amp;rdct=https%3A%2F%2Fwww.candere.com%2Fadhaya-anokhi-gold-necklace.html" target="_blank" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Buy Online</a>
 
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/mibeanie/5281229226115072?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="6166885842288640" title="Give yourself an urban touch on any outfit with this 100% Cotton Grey colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborsa/6166885842288640"><amp-img data-src="https://storage.googleapis.com/celio/liborsa_grey_1.jpg" src="https://storage.googleapis.com/celio/liborsa_grey_1.jpg" data-alt="Liborsa, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborsa/6166885842288640" itemprop="url" class="item-link theme-heading-text">Liborsa</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Liborsa</span></h3>
-<div class="product-description">Give yourself an urban touch on any outfit with this 100% Cotton Grey colored Borsalino hat. The color gradient this hat has brings a lot of style to your casual attire. You can wear it with chinos and a printed top.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
+</div><div data-is-un-available="" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5860232041070592" title="Anokhi Gold Earrings Style No: Kcae001 In Yellow Gold  22K  5.69 Gms And 1.7 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-earrings/5860232041070592"><amp-img data-src="https://www.candere.com/media/catalog/product/a/k/aker3901-e.jpg" src="https://www.candere.com/media/catalog/product/a/k/aker3901-e.jpg" data-alt="Anokhi Gold Earrings, Kalyan Jewellers, Marathahalli" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/product/anokhi-gold-earrings/5860232041070592" itemprop="url" class="item-link theme-heading-text">Anokhi Gold Earrings</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Anokhi Gold Earrings</span></h3>
+<div class="product-description">Anokhi Gold Earrings Style No: Kcae001 In Yellow Gold  22K  5.69 Gms And 1.7 Ct Gemstone.  | All our products come with authenticated certificates and BIS hallmark | Insurance &amp; Multiple EMI options available.*Price will vary depending on Weight and Rate of Gold.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">44436</span><dl style="display:none"></dl></div>
 </div></div>
 
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liborsa/6166885842288640?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
+<a href="https://www.niftywindow.com/api/analytics/click?&amp;placementId=6435986833670144&amp;contextListingId=5860232041070592&amp;category=Anokhi&amp;brandId=6086017347747840&amp;listingId=4833112707825664&amp;type=PS_CATALOG_BUY_CLICK&amp;rdct=https%3A%2F%2Fwww.candere.com%2Fadhaya-anokhi-gold-earrings.html" target="_blank" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Buy Online</a>
 
 </div> <!-- end each products -->
+<!-- cursor will be there only in the case of filter products-->
 
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Accessories/Hat%26Cap" class="view-all-bottom mobile-only brand-color">View all <i class="fa fa-caret-right"></i></a>
-
-<h2 class="brand-color-text seccat-name theme-border">Luggage</h2>
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Accessories/Luggage" class="view-all brand-color-text large-screen-only">View all <i class="fa fa-caret-right"></i></a>
-
-<!-- loop over all products inside this sec cat --><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="4715530493624320" title="Pick up this Black Colored travel bag. Double handle and removable strap with adjustable length. Main compartment with zip opening and side compartment. This is a 100% Polyester rich travel bag." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/mitote/4715530493624320"><amp-img data-src="https://storage.googleapis.com/celio/mitote_black_1.jpg" src="https://storage.googleapis.com/celio/mitote_black_1.jpg" data-alt="Mitote, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/mitote/4715530493624320" itemprop="url" class="item-link theme-heading-text">Mitote</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Mitote</span></h3>
-<div class="product-description">Pick up this Black Colored travel bag. Double handle and removable strap with adjustable length. Main compartment with zip opening and side compartment. This is a 100% Polyester rich travel bag.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">2999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
-</div></div>
-
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/mitote/4715530493624320?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="6512682249224192" title="Pick up this Denim Colored travel bag. Double handle and removable strap with adjustable length. Main compartment with zip opening and side compartment. This is a 100% Cotton rich travel bag." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/missouri/6512682249224192"><amp-img data-src="https://storage.googleapis.com/celio/missouri_navy_blue_1.jpg" src="https://storage.googleapis.com/celio/missouri_navy_blue_1.jpg" data-alt="Missouri, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/missouri/6512682249224192" itemprop="url" class="item-link theme-heading-text">Missouri</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Missouri</span></h3>
-<div class="product-description">Pick up this Denim Colored travel bag. Double handle and removable strap with adjustable length. Main compartment with zip opening and side compartment. This is a 100% Cotton rich travel bag.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">2999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
-</div></div>
-
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/missouri/6512682249224192?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div> <!-- end each products -->
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Accessories/Luggage" class="view-all-bottom mobile-only brand-color">View all <i class="fa fa-caret-right"></i></a>
-
-<h2 class="brand-color-text seccat-name theme-border">Scarves</h2>
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Accessories/Scarves" class="view-all brand-color-text large-screen-only">View all <i class="fa fa-caret-right"></i></a>
-
-<!-- loop over all products inside this sec cat --><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5375787226103808" title="Being made from 100% Viscose and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Grey Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/lidesign/5375787226103808"><amp-img data-src="https://storage.googleapis.com/celio/lidesign_grey_1.jpg" src="https://storage.googleapis.com/celio/lidesign_grey_1.jpg" data-alt="Lidesign, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/lidesign/5375787226103808" itemprop="url" class="item-link theme-heading-text">Lidesign</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Lidesign</span></h3>
-<div class="product-description">Being made from 100% Viscose and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Grey Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
-</div></div>
-
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/lidesign/5375787226103808?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="5395578435403776" title="Being made from 100% Viscose and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Blue Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/jieback/5395578435403776"><amp-img data-src="https://storage.googleapis.com/celio/jieback_blue_1.jpg" src="https://storage.googleapis.com/celio/jieback_blue_1.jpg" data-alt="Jieback, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/jieback/5395578435403776" itemprop="url" class="item-link theme-heading-text">Jieback</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Jieback</span></h3>
-<div class="product-description">Being made from 100% Viscose and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Blue Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
-</div></div>
-
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/jieback/5395578435403776?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="6725437749198848" title="Being made from 100% Cotton and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Blue Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/fiherring/6725437749198848"><amp-img data-src="https://storage.googleapis.com/celio/fiherring_navy_1.jpg" src="https://storage.googleapis.com/celio/fiherring_navy_1.jpg" data-alt="Fiherring, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/fiherring/6725437749198848" itemprop="url" class="item-link theme-heading-text">Fiherring</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Fiherring</span></h3>
-<div class="product-description">Being made from 100% Cotton and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Blue Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
-</div></div>
-
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/fiherring/6725437749198848?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="6688604109668352" title="Being made from 100% Viscose and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Black Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/jieback/6688604109668352"><amp-img data-src="https://storage.googleapis.com/celio/jieback_black_1.jpg" src="https://storage.googleapis.com/celio/jieback_black_1.jpg" data-alt="Jieback, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/jieback/6688604109668352" itemprop="url" class="item-link theme-heading-text">Jieback</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Jieback</span></h3>
-<div class="product-description">Being made from 100% Viscose and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Black Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
-</div></div>
-
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/jieback/6688604109668352?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="6301576016691200" title="Add some colour to your summer dressing with this Navy Blue Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf. Key points about this product are that it is 50% Cotton and 50% Viscose." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/listripe/6301576016691200"><amp-img data-src="https://storage.googleapis.com/celio/listripe_navy_1.jpg" src="https://storage.googleapis.com/celio/listripe_navy_1.jpg" data-alt="Listripe, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/listripe/6301576016691200" itemprop="url" class="item-link theme-heading-text">Listripe</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Listripe</span></h3>
-<div class="product-description">Add some colour to your summer dressing with this Navy Blue Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf. Key points about this product are that it is 50% Cotton and 50% Viscose.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
-</div></div>
-
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/listripe/6301576016691200?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div><div data-is-un-available="false" itemscope itemtype="http://schema.org/Product" data-nwlistingid="6336760388780032" title="Being made from 100% Cotton and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Grey Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf." class="product-card item-hover-bg theme-border "><div class="product-image-container"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liprint/6336760388780032"><amp-img data-src="https://storage.googleapis.com/celio/liprint_dark_blue_1.jpg" src="https://storage.googleapis.com/celio/liprint_dark_blue_1.jpg" data-alt="Liprint, Celio, Orion Mall" layout="fill" class="product-image item-image-placeholder-inner theme-border"></amp-img></a></div><div class="product-summary"><h3 class="product-name"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liprint/6336760388780032" itemprop="url" class="item-link theme-heading-text">Liprint</a><span class="nw-icon-triangle-right brand-color-text"><i style="margin-left: 5px;font-size: 20px;vertical-align: middle;" class="fa fa-caret-right"></i></span><span style="display:none" itemprop="name">Liprint</span></h3>
-<div class="product-description">Being made from 100% Cotton and woven on handlooms makes it perfect for year around use. Add some colour to your summer dressing with this Grey Scarf and wear it a bit loose. During winter you can use it as a regular winter scarf.</div><div class="product-price"><div itemscope itemtype="http://schema.org/Offer" class="price-val-isolated"><label style="display:none" class="price-old theme-body-text"><span class="currency-symbol">&#x20B9;</span><span></span></label><span itemprop="priceCurrency" class="theme-heading-text currency-symbol">&#x20B9;</span><span itemprop="price" class="theme-heading-text">999</span>
-<label class="label-avail brand-color-text product-availability mobile-only"><span class="availibility-icon"><i class="fa fa-check-circle-o"></i></span><span>In stock</span></label>
-<dl style="display:none"></dl></div>
-</div></div>
-
-
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/product/liprint/6336760388780032?presetCTA=RESERVE" class="buy-now-card-link brand-color-bg theme-brand-bg-text">Reserve &amp; Pickup</a>
-
-
-
-</div> <!-- end each products -->
-
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Accessories/Scarves" class="view-all-bottom mobile-only brand-color">View all <i class="fa fa-caret-right"></i></a>
-
- <!-- end each secondaryCategories -->
  <!-- if secondaryCategories --></div>
 
 <div class="other-sections-list"><h2 class="brand-color-bg other"><span class="other-sections theme-brand-bg-text">Other sections</span></h2>
-<a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Accessories" class="pricat-link header-link header-link-bottom-lst brand-color-text">Accessories</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Shirt" class="pricat-link header-link header-link-bottom-lst brand-color-text">Shirt</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Tee%20Shirt" class="pricat-link header-link header-link-bottom-lst brand-color-text">Tee Shirt</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Outwear" class="pricat-link header-link header-link-bottom-lst brand-color-text">Outwear</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Sweater" class="pricat-link header-link header-link-bottom-lst brand-color-text">Sweater</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Jean" class="pricat-link header-link header-link-bottom-lst brand-color-text">Jean</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Pants" class="pricat-link header-link header-link-bottom-lst brand-color-text">Pants</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Polo" class="pricat-link header-link header-link-bottom-lst brand-color-text">Polo</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Shoes" class="pricat-link header-link header-link-bottom-lst brand-color-text">Shoes</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Sweatshirt" class="pricat-link header-link header-link-bottom-lst brand-color-text">Sweatshirt</a><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/catalog/Bermuda" class="pricat-link header-link header-link-bottom-lst brand-color-text">Bermuda</a>
+<a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Generic" class="pricat-link header-link header-link-bottom-lst brand-color-text">Generic</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Mudhra" class="pricat-link header-link header-link-bottom-lst brand-color-text">Mudhra</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Anokhi" class="pricat-link header-link header-link-bottom-lst brand-color-text">Anokhi</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Sankalp" class="pricat-link header-link header-link-bottom-lst brand-color-text">Sankalp</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Vedha" class="pricat-link header-link header-link-bottom-lst brand-color-text">Vedha</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Nimah" class="pricat-link header-link header-link-bottom-lst brand-color-text">Nimah</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Hera" class="pricat-link header-link header-link-bottom-lst brand-color-text">Hera</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Laya" class="pricat-link header-link header-link-bottom-lst brand-color-text">Laya</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Rang" class="pricat-link header-link header-link-bottom-lst brand-color-text">Rang</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Glo" class="pricat-link header-link header-link-bottom-lst brand-color-text">Glo</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Ziah" class="pricat-link header-link header-link-bottom-lst brand-color-text">Ziah</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Tushi" class="pricat-link header-link header-link-bottom-lst brand-color-text">Tushi</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Bracelets" class="pricat-link header-link header-link-bottom-lst brand-color-text">Bracelets</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Nose%20Pins" class="pricat-link header-link header-link-bottom-lst brand-color-text">Nose Pins</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Women&#x27;s%20Accessories" class="pricat-link header-link header-link-bottom-lst brand-color-text">Women&#x27;s Accessories</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Pendants" class="pricat-link header-link header-link-bottom-lst brand-color-text">Pendants</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Diamond" class="pricat-link header-link header-link-bottom-lst brand-color-text">Diamond</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Platinum" class="pricat-link header-link header-link-bottom-lst brand-color-text">Platinum</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Gold" class="pricat-link header-link header-link-bottom-lst brand-color-text">Gold</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Gemstone" class="pricat-link header-link header-link-bottom-lst brand-color-text">Gemstone</a><a href="/amp/marathahalli-bangalore/4833112707825664/catalog/Platinum%20and%20Swarovski%20Zirconia" class="pricat-link header-link header-link-bottom-lst brand-color-text">Platinum and Swarovski Zirconia</a>
 </div>
-</div></div></div><div id="footer" class="theme-border"><div id="pagination-wrapper" data-catalogroot="https://abcs.com/amp/orion-mall-bangalore/4536859854110720/catalog" data-subcategory="" data-seccatlist="[Hat&amp;Cap, Luggage, Scarves]"><a id="page-prev" class="theme-hover-bg-brand-color"><div class="icon nw-icon-chevron-left theme-brand-bg-text"></div></a><a id="page-next" class="theme-hover-bg-brand-color"><div class="icon nw-icon-chevron-right theme-brand-bg-text"></div></a></div></div></div></section></div><div class="sidebar"> 
-<section id="reviews" data-numreviews="12" data-avgrating="4.7" itemscope itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating" class="card theme-content-bg theme-border"><p class="reviews theme-body-text"><span style="display:none" itemprop="ratingCount">12</span><span>12 rating(s) | </span><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/reviews#review-form-anchor" class="brand-color-text brand-color-hover">Write a review</a></p><div class="rating"><span itemprop="ratingValue"><i class='fa fa-star' aria-hidden='true'></i><i class='fa fa-star' aria-hidden='true'></i><i class='fa fa-star' aria-hidden='true'></i><i class='fa fa-star' aria-hidden='true'></i><i class='fa fa-star-half-o' aria-hidden='true'></i></span></div></section>
+</div></div></div><div id="footer" class="theme-border"><div id="pagination-wrapper" data-catalogroot="https://stores.kalyanjewellers.net/amp/marathahalli-bangalore/4833112707825664/catalog" data-subcategory="" data-seccatlist=""><a id="page-prev" class="theme-hover-bg-brand-color"><div class="icon nw-icon-chevron-left theme-brand-bg-text"></div></a><a id="page-next" class="theme-hover-bg-brand-color"><div class="icon nw-icon-chevron-right theme-brand-bg-text"></div></a></div></div></div></section></div><div class="sidebar"> 
+<section id="reviews" data-numreviews="5" data-avgrating="4.6" itemscope itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating" class="card theme-content-bg theme-border"><p class="reviews theme-body-text"><span style="display:none" itemprop="ratingCount">5</span><span>5 rating(s) | </span><a href="/amp/marathahalli-bangalore/4833112707825664/reviews#review-form-anchor" class="brand-color-text brand-color-hover">Write a review</a></p><div class="rating"><span itemprop="ratingValue"><i class='fa fa-star' aria-hidden='true'></i><i class='fa fa-star' aria-hidden='true'></i><i class='fa fa-star' aria-hidden='true'></i><i class='fa fa-star' aria-hidden='true'></i><i class='fa fa-star-half-o' aria-hidden='true'></i></span></div></section>
  <section id="map-location" class="card theme-content-bg theme-border">
-<p class="address theme-border"><i class="fa fa-map-marker"></i><span>Shop Ug-18 A, Upper Ground Floor, Brigade Gateway, 26/1, Dr. Rajkumar Road, Malleshwaram West, Orion Mall, Bangalore - 560055, Assam.</span></p><p class="phone theme-border">Phone number: 080-22682075</p><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/map#contentTop"><amp-img id="static-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAAAyP7TyWVEmuJOv67mei4YI7h9kR4Uw8&amp;center=13.00337,77.57128&amp;zoom=12&amp;size=384x200&amp;maptype=roadmap&amp;markers=color:red%7C13.00337,77.57128" width="384" height="200" layout="responsive"></amp-img></a><div class="get-directions theme-heading-text"><a href="/site/amp/store/orion-mall-bangalore/4536859854110720/map#contentTop" class="brand-color-text">Get directions</a></div><div class="poweredByGoogle">Powered by <a href="http://www.google.com" target="_blank" class="theme-body-text">Google</a></div></section><section id="about-us" class="card theme-content-bg theme-border"><h2 class="brand-color-text theme-border">About us</h2><p itemprop="description">Celio is a premium brand of apparel and accessories  exclusively for Men. Product like Jeans, Tee&#x27;s, Shirt, Jackets etc. are available. It is located at one of Bangalore�s premium shopping mall.</p><p class="tags brand-color-text"><i class="fa fa-tags"></i><span>Chinos, Pants, Jeans, Polo Shirts, Shirts, Shorts, Bermudas, Tees,  Trousers, Jackets, Sweat Shirts, Shoes, Hats &amp; Other Accessories.</span></p><p class="category-info"><i class="fa fa-list-alt"></i><span>Clothing Store, Clothing Store, Apparel Showroom For Men, Fashion Retail Store, Celio Blue Jeans, Celio Formals, Celio France, Celio Shirts, Celio Bottom Wears.		</span></p>
+<p class="address theme-border"><i class="fa fa-map-marker"></i><span>No 93/1, Varthur Main Road, Old Airport Road, Marathahalli, Bangalore - 560037, Karnataka.</span></p><p class="phone theme-border">Phone number: 08046837079</p><a href="/amp/marathahalli-bangalore/4833112707825664/map#contentTop"><amp-img id="static-map" src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAAAyP7TyWVEmuJOv67mei4YI7h9kR4Uw8&amp;center=12.958593,77.62135&amp;zoom=12&amp;size=384x200&amp;maptype=roadmap&amp;markers=color:red%7C12.958593,77.62135" width="384" height="200" layout="responsive"></amp-img></a><div class="get-directions theme-heading-text"><a href="/amp/marathahalli-bangalore/4833112707825664/map#contentTop" class="brand-color-text">Get directions</a></div><div class="poweredByGoogle">Powered by <a href="http://www.google.com" target="_blank" class="theme-body-text">Google</a></div></section><section id="about-us" class="card theme-content-bg theme-border"><h2 class="brand-color-text theme-border">About us</h2><p itemprop="description">India&#x27;s beauty lies in its diversity. Every part of India has its unique jewellery, the expertise to create those exist only in that region, passed on through generations.</p><p class="tags brand-color-text"><i class="fa fa-tags"></i><span>Jewellery near me, Diamond Ring, Diamond Jewellery, Gold Ring, Gold Jewellery, Bridal Jewellery, Wedding Jewelry, Buy gold diamond rings necklaces online, Buy jewellery online, Indian Jewelry Online, Indian jewellery stores near me, Gold Jewellery Necklace, Gold Jewellery Online, Gold Diamond Jewellery shop near me, Online Jewellery Shopping, Nearby Jewellery Shop, Silver Jewellery, Traditional Jewellery, Jewellery Shop in Marathahalli</span></p><p class="category-info"><i class="fa fa-list-alt"></i><span>Jewelry Store, Gold, Diamonds, Precious Stones And Other Precious Metals, Bridal, Wedding, Traditional Jewellery		</span></p><p title="Awards" class="awards">Kalyan Jewellers Declared Retail Chain of the Year at the First India Bullion &amp; Jewellery Awards</p>
 
 </section><section id="hoop" class="card theme-content-bg theme-border"><h2 class="brand-color-text theme-border">Hours of operation</h2><table class="table"><tbody>
  <tr>
   <td>Monday</td>
   <td class="time">
    
-    <div>11:00am-10:00pm</div>
+    <div>10:30am-9:00pm</div>
    
   </td>
  </tr>
@@ -1803,7 +1649,7 @@ Accessories
   <td>Tuesday</td>
   <td class="time">
    
-    <div>11:00am-10:00pm</div>
+    <div>10:30am-9:00pm</div>
    
   </td>
  </tr>
@@ -1812,7 +1658,7 @@ Accessories
   <td>Wednesday</td>
   <td class="time">
    
-    <div>11:00am-10:00pm</div>
+    <div>10:30am-9:00pm</div>
    
   </td>
  </tr>
@@ -1821,7 +1667,7 @@ Accessories
   <td>Thursday</td>
   <td class="time">
    
-    <div>11:00am-10:00pm</div>
+    <div>10:30am-9:00pm</div>
    
   </td>
  </tr>
@@ -1830,7 +1676,7 @@ Accessories
   <td>Friday</td>
   <td class="time">
    
-    <div>11:00am-10:00pm</div>
+    <div>10:30am-9:00pm</div>
    
   </td>
  </tr>
@@ -1839,7 +1685,7 @@ Accessories
   <td>Saturday</td>
   <td class="time">
    
-    <div>11:00am-10:00pm</div>
+    <div>10:30am-9:00pm</div>
    
   </td>
  </tr>
@@ -1848,16 +1694,79 @@ Accessories
   <td>Sunday</td>
   <td class="time">
    
-    <div>11:00am-10:00pm</div>
+    <div>10:30am-9:00pm</div>
    
   </td>
  </tr>
-</tbody></table></section>
+</tbody></table></section><section id="nearbyLocalities" class="card theme-content-bg theme-border"><h2 class="brand-color-text theme-border">Nearby localities</h2><p class="nearbyAreas">
+Sanjay Nagar, 
+
+Anand Nagar, 
+
+AECS Layout, 
+
+Brookefield, 
+
+Munnekollal, 
+
+Bellandur, 
+
+Jeevan Bhima Nagar, 
+
+Kartik Nagar, 
+
+Marthahalli, 
+
+Epip Zone, 
+
+Kaggadasapura, 
+
+Mahadevapura, 
+
+Narayanapura, 
+
+Nagavaraplaya, 
+
+CV Raman Nagar, 
+
+Marathahalli, 
+
+Murugeshpalya, 
+
+Puttappa Layout, 
+
+Doddanekundi, 
+
+Kodihalli, 
+
+Kadubeesanahalli, 
+
+Chandra Layout, 
+
+Kempapura, 
+
+Kodbisanhalli, 
+</p></section>
 
 <section id="otherStores" class="card theme-content-bg theme-border">	<h2 class="brand-color-text theme-border">
-Other Celio Stores
+
+Other Kalyan Jewellers stores
+
 </h2><ul>
-<li><a href="/site/brand/clothing-store-bangalore-celio/5434061342375936/city/Bangalore" class="brand-color-text">Celio Stores in Bangalore</a></li><li><a href="/site/brand/clothing-store-bangalore-celio/5434061342375936/?all=true" class="brand-color-text">Celio Stores in India</a></li></ul></section></div></div></div><div class="footer theme-content-bg theme-body-text"><div class="footer-content">	
+<li><a href="https://stores.kalyanjewellers.net/city/Bangalore" class="brand-color-text">
+Kalyan Jewellers stores in Bangalore
+</a></li><li><a href="https://stores.kalyanjewellers.net/?all=true" class="brand-color-text">
+Kalyan Jewellers stores in India
+</a></li></ul></section></div></div></div><div class="footer theme-content-bg theme-body-text"><div class="footer-content">	
 
 
-<p class="copyright brand-color-bg"><span class="theme-brand-bg-text">&copy; 2018 Celio. </span><span class="mobileBreak"><br></span><span class="theme-brand-bg-text">All rights reserved.</span></p><p class="poweredBy theme-body-text"><amp-img alt="Nifty Window" src="http://localhost:8888/shared/images/NW_Logo_22x22.png" width="16" height="16" class="powered-by-image"></amp-img><span>Powered by Nifty Window</span></p></div></div><div style="display:none" class="overlay"><div class="loader"></div></div></body>
+<p class="copyright brand-color-bg"><span class="theme-brand-bg-text">&copy; 2018 Kalyan Jewellers. </span><span class="mobileBreak"><br></span><span class="theme-brand-bg-text">All rights reserved.</span></p><p class="poweredBy theme-body-text"><amp-img alt="Nifty Window" src="https://www.niftywindow.com/shared/images/NW_Logo_22x22.png" width="16" height="16" class="powered-by-image"></amp-img><span>Powered by Nifty Window</span></p></div></div><div style="display:none" class="overlay"><div class="loader"></div></div><amp-analytics type="googleanalytics" data-credentials="include">
+<script type="application/json">{"vars": {"account": "UA-40665887-1"},"extraUrlParams": {"cd1": "6086017347747840","cd2": "Kalyan Jewellers", "dimension1": "6086017347747840", "dimension2": "Kalyan Jewellers", "isAMPStore": "true"},"triggers": {"trackPageview": {"on": "visible","request": "pageview"} } }
+</script>
+</amp-analytics>
+
+<amp-analytics type="googleanalytics" data-credentials="include">
+<script type="application/json">{"vars": {"account": "UA-71546125-6", "name": "brandTracker" },"extraUrlParams": {"cd1": "6086017347747840","cd2": "Kalyan Jewellers","dimension1": "6086017347747840", "dimension2": "Kalyan Jewellers", "isAMPStore": "true"},"triggers": {"trackPageview": {"on": "visible", "request": "pageview", "require": "displayfeatures"} } }
+</script>
+</amp-analytics>
+</body>
